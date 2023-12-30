@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MAIN BACKUP _ 1</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="spinner1">Section</string>
+    <string-array name="section">
+        <item>Section  ↓</item>
+        <item>CSE_A</item>
+        <item>CSE_B</item>
+        <item>CSE_C</item>
+        <item>CSE_D</item>
+    </string-array>
+    <string name="spinner2">Teacher</string>
+    <string-array name="teacher">
+        <item>Teacher  ↓</item>
+        <item>Mr.Shiva</item>
+        <item>Ms.Pranavi</item>
+        <item>Mr.Lakshman</item>
+        <item>Ms.Nayana</item>
+    </string-array>
+
+
+    <string name="About">
+
+        \t\t\t\t\tOur Mobile Application is developed to provide a faster and simpler way to take attendance in government aided schools.
+    </string>
+    <string name="features">
+
+        \t\t\t\t\t\t\t\t\t\t Attendance Sytem\n
+        \t\t\t\t\t\t\t\t\t\t Student Notice\n
+        \t\t\t\t\t\t\t\t\t\t Daily Reports\n
+        \t\t\t\t\t\t\t\t\t\t Student Wise Reports\n
+    </string>
+    <string name="regulations">
+
+        \t\t\t\t\t\t\t\t\t\t1- NFC Enabled Mobile must be\n \t\t\t\t\t\t\t\t\t\t\t\t\tcarried by teacher.\n
+        \t\t\t\t\t\t\t\t\t\t2- Correct Pin should be provided.\n
+        \t\t\t\t\t\t\t\t\t\t3- Pin Should not be shared without \t\t\t\t\t\t\t\t\t\t\t\t\tauthorized personal\n
+        \t\t\t\t\t\t\t\t\t\t4- Reports are confidential.\n
+    </string>
+    <string name="developed">
+
+        Seshadhri Thota &amp; Y.J.S.S.D Balaji.
+    </string>
+    <string name="opening">
+       \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WELCOME TO \n
+    \t\t\t\tSTUDENT ATTENDANCE SYSTEM
+    </string>
+
+</resources>
