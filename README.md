@@ -1,8 +1,9 @@
-                                                           NFC Attendance System
+                                                  NFC Attendance System
 
 This Android application is designed for efficient attendance tracking using Near Field Communication (NFC) technology. It provides a user-friendly interface for teachers to take attendance and automatically generates reports for parents. The app is developed using Android Studio and utilizes the Android NFC API for communication.
 
-                                                               Features
+                                                       Features
+                                                       
 NFC Integration: Utilizes NFC technology for quick and secure student attendance tracking.
 
 User Authentication: Secure login system for teachers to access attendance features.
@@ -15,7 +16,8 @@ Parent Reports: Generates and sends attendance reports to parents via email or o
 
 Data Persistence: Stores attendance records securely, ensuring data integrity and accessibility.
 
-                                                           Technologies Used
+                                                  Technologies Used
+                                                  
 Android Studio: Primary IDE for Android app development.
 
 Java: Core programming language for Android development.
@@ -24,7 +26,8 @@ Android NFC API: Enables communication with NFC-enabled devices.
 
 Firebase: Backend service for real-time database management and authentication.
 
-                                                            Getting Started
+                                                  Getting Started
+                                                  
 To run the app locally, follow these steps:
 
 Clone the repository:
