@@ -16,7 +16,7 @@ Parent Reports: Generates and sends attendance reports to parents via email or o
 
 Data Persistence: Stores attendance records securely, ensuring data integrity and accessibility.
 
-                                              Technologies Used
+                                               Technologies Used
                                                   
 Android Studio: Primary IDE for Android app development.
 
@@ -26,8 +26,8 @@ Android NFC API: Enables communication with NFC-enabled devices.
 
 Firebase: Backend service for real-time database management and authentication.
 
-                                              Getting Started
-                                                  
+                                               Getting Started
+                                                   
 To run the app locally, follow these steps:
 
 Clone the repository:
